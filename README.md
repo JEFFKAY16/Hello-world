@@ -1,1 +1,1 @@
-# Hello-world
+This Hello Microverse project is my first project as a Microverse student. I will be setting up HTML and CSS linters alongside 3 files of which one is to be ignored by git. 
